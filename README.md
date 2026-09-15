@@ -12,8 +12,8 @@ Aucune dépendance à installer. Le site utilise HTML, CSS et JavaScript natif.
 ## Contenu et visuels
 
 - Activités, publics, expérience, zone d’intervention et coordonnées : plaquette fournie.
-- Logo et photographie de la section engagements : extraits de cette plaquette.
-- Visuel d’accueil : illustration architecturale générée, ne représentant pas une réalisation attribuée à Altages.
+- Logo : repris de la plaquette, détouré avec le générateur d’images ; PNG transparent bleu et or fourni. Affiché en blanc dans la navigation et le pied de page via CSS.
+- Visuel d’accueil et photographies des expertises/engagements : illustrations générées, ne représentant ni les équipes ni des réalisations attribuées à Altages.
 - Typographies : DM Sans et Manrope, chargées depuis Google Fonts avec polices de repli.
 - Les boutons de contact ouvrent la messagerie ou le téléphone du visiteur. Aucun formulaire ni collecte de données côté site.
 
