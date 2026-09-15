@@ -20,3 +20,4 @@ Aucune dépendance à installer. Le site utilise HTML, CSS et JavaScript natif.
 ## Avant une diffusion publique
 
 Faire valider les textes et coordonnées par l’entreprise. Les mentions légales de l’éditeur devront être complétées avec ses informations officielles ; elles ne figurent pas dans la plaquette. Le lien Sites de cette version est privé.
+# altages
